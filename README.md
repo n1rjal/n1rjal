@@ -22,8 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n1rjal&show_icons=true" alt="n1rjal" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/nirjalpaudel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirjalpaudel" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13387913" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13387913" height="30" width="30" /></a>
-<a href="https://fb.com/n1rjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1rjal" height="30" width="30" /></a>
-<a href="https://instagram.com/n1_rjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n1_rjal" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/nirjalpaudel" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirjalpaudel" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13387913" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13387913" height="30" width="30" /></a>
+<a href="https://fb.com/n1rjal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1rjal" height="30" width="30" /></a>
+<a href="https://instagram.com/n1_rjal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n1_rjal" height="30" width="30" /></a>
 </p>
