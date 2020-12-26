@@ -1,7 +1,11 @@
+
+<img align="center" src="./banner.jpg" alt="nirjalpaudel" height="300" />
 <h1 align="center">Hi Mate 👋, I am</h1>
 <h3 align="center">An aspiring full stack developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n1rjal" alt="n1rjal" /> </p>
+
+
 
 - 🔭 I’m currently working on [HamroBakas](http://hamrobakas.com/)
 
