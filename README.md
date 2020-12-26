@@ -1,5 +1,5 @@
 
-<img align="center" src="./banner.jpg" alt="nirjalpaudel" height="300" />
+<img align="center" src="./banner.jpg" alt="nirjalpaudel" height="300" width="100%" />
 <h1 align="center">Hi Mate 👋, I am</h1>
 <h3 align="center">An aspiring full stack developer from Nepal.</h3>
 
