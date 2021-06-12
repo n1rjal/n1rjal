@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on [HamroBakas](http://hamrobakas.com/)
+- 🔭 I’m currently working on Kamao Nepal
 
 - 🌱 I’m currently learning **Node js and Express**
 
-- 👨‍💻 All of my projects are available at [http://nirjal.herokuapp.com/](http://nirjal.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://nirjal.netlify.app/](http://nirjal.netlify.app/)
 
 - 💬 Ask me about **Django, React, REST**
 
