@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hifoods.fr**
 
-- 🌱 I’m currently learning **NestJS and NextJS**
+- 🌱 I’m currently learning **NestJS and Rust**
 
 - 👨‍💻 All of my projects are available at [https://nirjalpaudel.com](https://nirjalpaudel.com)
 
