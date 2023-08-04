@@ -17,7 +17,7 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n1rjal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# Latest Articles
+# Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Best way to count documents in MongoDB](https://medium.com/@nirjalpaudel54312/best-way-to-count-documents-in-mongodb-b0c7e7861286?source=rss-933303365405------2)
 - [Stop writing Typescript interfaces, automate it.](https://medium.com/@nirjalpaudel54312/stop-writing-typescript-interfaces-13500311d24c?source=rss-933303365405------2)
