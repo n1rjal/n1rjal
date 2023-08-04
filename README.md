@@ -17,7 +17,6 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n1rjal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=n1rjal&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
