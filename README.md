@@ -16,7 +16,6 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 - [Postgres Just In Time Compiler and Worker Processes](https://medium.com/@nirjalpaudel54312/postgres-just-in-time-compiler-and-worker-processes-6c7434864078?source=rss-933303365405------2)
 - [Do this if you hate constuctors in javascript](https://medium.com/@nirjalpaudel54312/lets-make-construction-illegal-in-js-feed1801cc92?source=rss-933303365405------2)
 - [Eat the frog: MongoDB Design Patterns](https://medium.com/@nirjalpaudel54312/mongodb-design-patterns-708100c07bcb?source=rss-933303365405------2)
-- [The new challenge format](https://medium.com/@nirjalpaudel54312/the-new-challenge-format-20253ebc536e?source=rss-933303365405------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
