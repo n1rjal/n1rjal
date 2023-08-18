@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5
-          feed_list: "https://medium.com/feed/@nirjalpaudel54312"
+          feed_list: "https://medium.com/@vikramgyawali57/feed"
