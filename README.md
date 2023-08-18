@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Best way to count documents in MongoDB](https://medium.com/@nirjalpaudel54312/best-way-to-count-documents-in-mongodb-b0c7e7861286?source=rss-933303365405------2)
-- [Stop writing Typescript interfaces, automate it.](https://medium.com/@nirjalpaudel54312/stop-writing-typescript-interfaces-13500311d24c?source=rss-933303365405------2)
-- [Postgres Just In Time Compiler and Worker Processes](https://medium.com/@nirjalpaudel54312/postgres-just-in-time-compiler-and-worker-processes-6c7434864078?source=rss-933303365405------2)
-- [Do this if you hate constuctors in javascript](https://medium.com/@nirjalpaudel54312/lets-make-construction-illegal-in-js-feed1801cc92?source=rss-933303365405------2)
-- [Eat the frog: MongoDB Design Patterns](https://medium.com/@nirjalpaudel54312/mongodb-design-patterns-708100c07bcb?source=rss-933303365405------2)
+- [Transactions in MongoDB Basics and Example](https://medium.com/@vikramgyawali57/transactions-in-mongodb-basics-and-example-4c2d8aab55eb?source=rss-5a5de8ab70e6------2)
+- [Enhance Your Code with These 5 Useful Decorators In TypeScript](https://medium.com/@vikramgyawali57/exploring-decorators-in-typescript-enhance-your-code-with-these-5-useful-decorators-825739881613?source=rss-5a5de8ab70e6------2)
+- [Connection Pooling in Node.js: Maximizing Database Performance](https://medium.com/@vikramgyawali57/connection-pooling-in-node-js-maximizing-database-performance-c1e5e06dcaed?source=rss-5a5de8ab70e6------2)
+- [gRPC: A High-Performance, Remote Procedure Call &lpar;RPC&rpar; Framework](https://medium.com/@vikramgyawali57/grpc-a-high-performance-remote-procedure-call-rpc-framework-dcbcdeb8dbd6?source=rss-5a5de8ab70e6------2)
+- [Automate TypeScript Interfaces from Postman Collections: Save Time and Boost Productivity](https://medium.com/@vikramgyawali57/automate-typescript-interfaces-from-postman-collections-save-time-and-boost-productivity-d4d2d1f72d17?source=rss-5a5de8ab70e6------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
