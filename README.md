@@ -1,9 +1,9 @@
 # 💫 About Me:
 I am Nirjal Paudel. I am a software developer who specializes in database and backend technology.<br>
 
-<br>🔭 I’m currently working at https://hyteno.com
+
 <br>🌱 I’m currently learning Memory Management and Distributed computing
-<br>👨‍💻 All of my projects are available at https://nirjalpaudel.com
+<br>👨‍💻 All of my projects are available at https://nirjalpaudel.com.np
 <br>💬 Ask me about NestJS and Docker
 
 ## 🌐 Socials:
