@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Overloading typescript constructor like cpp or Java with a catch](https://medium.com/@nirjalpaudel54312/overloading-typescript-constructor-like-c-java-or-c-with-a-catch-b23267daec62?source=rss-933303365405------2)
 - [Best way to count documents in MongoDB](https://medium.com/@nirjalpaudel54312/best-way-to-count-documents-in-mongodb-b0c7e7861286?source=rss-933303365405------2)
 - [Stop writing Typescript interfaces, automate it.](https://medium.com/@nirjalpaudel54312/stop-writing-typescript-interfaces-13500311d24c?source=rss-933303365405------2)
 - [Postgres Just In Time Compiler and Worker Processes](https://medium.com/@nirjalpaudel54312/postgres-just-in-time-compiler-and-worker-processes-6c7434864078?source=rss-933303365405------2)
 - [Do this if you hate constuctors in javascript](https://medium.com/@nirjalpaudel54312/lets-make-construction-illegal-in-js-feed1801cc92?source=rss-933303365405------2)
-- [Eat the frog: MongoDB Design Patterns](https://medium.com/@nirjalpaudel54312/mongodb-design-patterns-708100c07bcb?source=rss-933303365405------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
