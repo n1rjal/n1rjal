@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Every little cute classes in nestjs and its functionalities](https://javascript.plainenglish.io/every-little-cute-classes-in-nestjs-and-its-functionalities-96b76cd259df?source=rss-933303365405------2)
 - [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?source=rss-933303365405------2)
 - [Overloading TypeScript Constructors like C++ or Java with a Catch](https://javascript.plainenglish.io/overloading-typescript-constructor-like-c-java-or-c-with-a-catch-b23267daec62?source=rss-933303365405------2)
 - [Best way to count documents in MongoDB](https://medium.com/@nirjalpaudel54312/best-way-to-count-documents-in-mongodb-b0c7e7861286?source=rss-933303365405------2)
 - [Stop Writing TypeScript Interfaces, Automate It](https://blog.stackademic.com/stop-writing-typescript-interfaces-13500311d24c?source=rss-933303365405------2)
-- [Postgres Just In Time Compiler and Worker Processes](https://medium.com/@nirjalpaudel54312/postgres-just-in-time-compiler-and-worker-processes-6c7434864078?source=rss-933303365405------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
