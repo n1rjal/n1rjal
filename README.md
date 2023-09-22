@@ -11,7 +11,7 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [With this rust tool, I don’t see feeds now](https://medium.com/@nirjalpaudel54312/with-this-rust-tool-i-dont-see-feeds-now-e3f2d013ea80?source=rss-933303365405------2)
+- [With this rust tool, I don’t see feeds now](https://blog.stackademic.com/with-this-rust-tool-i-dont-see-feeds-now-e3f2d013ea80?source=rss-933303365405------2)
 - [Every Class in NestJS and Its Functionalities](https://javascript.plainenglish.io/every-little-cute-classes-in-nestjs-and-its-functionalities-96b76cd259df?source=rss-933303365405------2)
 - [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?source=rss-933303365405------2)
 - [Overloading TypeScript Constructors like C++ or Java with a Catch](https://javascript.plainenglish.io/overloading-typescript-constructor-like-c-java-or-c-with-a-catch-b23267daec62?source=rss-933303365405------2)
