@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Vim selection groups](https://blog.stackademic.com/vim-selection-groups-6bd0ed330298?source=rss-933303365405------2)
 - [My journey to VIM, from  to](https://blog.stackademic.com/my-journey-to-vim-from-to-67e06a2898a1?source=rss-933303365405------2)
 - [A-Z of Computing](https://blog.stackademic.com/a-zof-computing-affa4cccd183?source=rss-933303365405------2)
 - [With this rust tool, I don’t see feeds now](https://blog.stackademic.com/with-this-rust-tool-i-dont-see-feeds-now-e3f2d013ea80?source=rss-933303365405------2)
 - [Every Class in NestJS and Its Functionalities](https://javascript.plainenglish.io/every-little-cute-classes-in-nestjs-and-its-functionalities-96b76cd259df?source=rss-933303365405------2)
-- [I Bet You Don’t Use These JavaScript Tricks and Practices](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8?source=rss-933303365405------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
