@@ -11,7 +11,7 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Take your Django Serializer game to the next level](https://blog.stackademic.com/take-your-django-serializer-game-to-the-next-level-aa8ad367d25d?source=rss-933303365405------2)
+- [Take Your Django Serializer Game to the Next Level](https://blog.stackademic.com/take-your-django-serializer-game-to-the-next-level-aa8ad367d25d?source=rss-933303365405------2)
 - [Vim Selection Groups](https://blog.stackademic.com/vim-selection-groups-6bd0ed330298?source=rss-933303365405------2)
 - [My journey to VIM, from  to](https://blog.stackademic.com/my-journey-to-vim-from-to-67e06a2898a1?source=rss-933303365405------2)
 - [A-Z of Computing](https://blog.stackademic.com/a-zof-computing-affa4cccd183?source=rss-933303365405------2)
