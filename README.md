@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Temporary tables in SQL and How I used it to improve performance](https://blog.stackademic.com/temporary-tables-in-sql-and-how-i-used-it-to-improve-performance-96a79997b47b?source=rss-933303365405------2)
-- [Take Your Django Serializer Game to the Next Level](https://blog.stackademic.com/take-your-django-serializer-game-to-the-next-level-aa8ad367d25d?source=rss-933303365405------2)
-- [Vim Selection Groups](https://blog.stackademic.com/vim-selection-groups-6bd0ed330298?source=rss-933303365405------2)
-- [My journey to VIM, from  to](https://blog.stackademic.com/my-journey-to-vim-from-to-67e06a2898a1?source=rss-933303365405------2)
-- [A-Z of Computing](https://blog.stackademic.com/a-zof-computing-affa4cccd183?source=rss-933303365405------2)
+- [About](https://n1cs.blog/about/)
+- [Temporary tables in SQL and How I used it to improve performance](https://n1cs.blog/posts/@nirjalpaudel54312/temporary-tables-in-sql-and-how-i-used-it-to-imporve-performance/)
+- [Kubernetes Concepts](https://n1cs.blog/posts/2024-06-01_kubernetes-concepts-86f5ab64a87c41e5993/)
+- [Take Your Django Serializer Game to the Next Level](https://n1cs.blog/posts/@nirjalpaudel54312/take-your-django-serializer-game-to-the-next-level-aa8ad367d25d/)
+- [Vim Selection Groups](https://n1cs.blog/posts/@nirjalpaudel54312/vim-selection-groups-6bd0ed330298/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
