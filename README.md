@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [I have been optimizing my development productivity](https://n1cs.blog/posts/@nirjalpaudel54312/i-have-been-optimizing-my-development-productivity/)
 - [About](https://n1cs.blog/about/)
 - [Temporary tables in SQL and How I used it to improve performance](https://n1cs.blog/posts/@nirjalpaudel54312/temporary-tables-in-sql-and-how-i-used-it-to-imporve-performance/)
 - [Kubernetes Concepts](https://n1cs.blog/posts/2024-06-01_kubernetes-concepts-86f5ab64a87c41e5993/)
 - [Take Your Django Serializer Game to the Next Level](https://n1cs.blog/posts/@nirjalpaudel54312/take-your-django-serializer-game-to-the-next-level-aa8ad367d25d/)
-- [Vim Selection Groups](https://n1cs.blog/posts/@nirjalpaudel54312/vim-selection-groups-6bd0ed330298/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
