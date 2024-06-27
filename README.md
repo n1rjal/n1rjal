@@ -13,7 +13,7 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 <!-- BLOG-POST-LIST:START -->
 - [JSONB in PostgresSQL and its daily uses](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/jsonb-in-postgresql-and-its-daily-uses/)
 - [Nirjal Paudel - Reading List](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/reading-list/)
-- [Reading List](https://nirjalpaudel.com.np/reading-list/)
+- [Reading List | Nirjal Paudel](https://nirjalpaudel.com.np/reading-list/)
 - [I have been optimizing my development productivity](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/i-have-been-optimizing-my-development-productivity/)
 - [About](https://nirjalpaudel.com.np/about/)
 <!-- BLOG-POST-LIST:END -->
