@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Experiencing the dualities of hackathon](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/experiencing-the-dualities-of-hackathon-e659f9988c18/)
 - [Aws Lambda](https://nirjalpaudel.com.np/posts/lambda/)
 - [JSONB in PostgresSQL and its daily uses](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/jsonb-in-postgresql-and-its-daily-uses/)
 - [I have been optimizing my development productivity](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/i-have-been-optimizing-my-development-productivity/)
 - [About](https://nirjalpaudel.com.np/about/)
-- [Temporary tables in SQL and How I used it to improve performance](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/temporary-tables-in-sql-and-how-i-used-it-to-imporve-performance/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
