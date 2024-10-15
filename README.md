@@ -11,11 +11,11 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [I bet you don&#39;t know these five typescript tips](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/i-bet-you-dont-use-these-typescript-tips-and-practices/)
 - [From Yin to Yang: Understanding Celery](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/from-yin-to-yang-understanding-celery/)
 - [Experiencing the dualities of hackathon](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/experiencing-the-dualities-of-hackathon-e659f9988c18/)
 - [Aws Lambda](https://nirjalpaudel.com.np/posts/lambda/)
 - [JSONB in PostgresSQL and its daily uses](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/jsonb-in-postgresql-and-its-daily-uses/)
-- [I have been optimizing my development productivity](https://nirjalpaudel.com.np/posts/@nirjalpaudel54312/i-have-been-optimizing-my-development-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
