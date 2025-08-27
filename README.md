@@ -11,7 +11,10 @@ I am Nirjal Paudel. I am a software developer who specializes in database and ba
 [![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/n1rjal)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/n1rjal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n1rjal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjalpaudel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nirjalpaudel54312) [![Upwork](https://www.upwork.com/freelancers/~0102d4b4b099a771b2?viewMode=1)]
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/n1rjal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n1rjal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirjalpaudel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nirjalpaudel54312) 
+
+## Work with me:
+[![Upwork](https://img.shields.io/badge/Upwork-8A2BE2)](https://www.upwork.com/freelancers/~0102d4b4b099a771b2?viewMode=1) 
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
